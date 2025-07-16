@@ -1,0 +1,1 @@
+web: python kari_ai_assistant.py
